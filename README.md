@@ -27,7 +27,7 @@ And if you are the owner of these apps, you can co-maintain it with me, or tell 
 | -- | -- | -- |
 | [*AM/AppMan*](https://github.com/ivan-hc/AM) | *Bash-script* | [iVAN](https://github.com/ivan-hc)
 | [*AM-GUI*](https://github.com/Shikakiben/AM-GUI) | *Anylinux AppImage* | [Shikakiben](https://github.com/Shikakiben)
-| [*Gear Lever*]([https:](https://github.com/mijorus/gearlever)) | *Flatpak* | [Lorenzo Paderi](https://github.com/mijorus)
+| [*Gear Lever*](https://github.com/mijorus/gearlever) | *Flatpak* | [Lorenzo Paderi](https://github.com/mijorus)
 
 
 
