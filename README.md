@@ -14,7 +14,7 @@ I do this because I think it will be useful for me and the community, and for de
 And if you are the owner of these apps, you can co-maintain it with me, or tell me to hand over by opening an issue in the project's repo. And feel free to do that, I would like to have one co-maintained these with me.
 
 ## My projects
-| Projects | Source | Status | Minor repo |
+| Projects | Type | Status | Minor repo |
 | -- | -- | -- | -- |
 | [*Classin (Flatpak ver.)*](https://github.com/flathub/cn.eeo.ClassIn) | *Flatpak* | Unofficial | [Minor repo](https://github.com/imngkhang/classin-flatpak-wrapper)
 | [*Classin (AppImage ver.)*](https://github.com/imngkhang/classin-appimage-wrapper) | *AppImage type 2* | Unofficial | none
@@ -23,7 +23,7 @@ And if you are the owner of these apps, you can co-maintain it with me, or tell 
 ### *If you find my project I do is useful, consider let me a star "⭐" in the repo you like best*
 
 ## Useful utilities that I'm currently using
-| Utilities | Source | Maintainer
+| Utilities | Type | Maintainer
 | -- | -- | -- |
 | [*AM/AppMan*](https://github.com/ivan-hc/AM) | *Bash-script* | [iVAN](https://github.com/ivan-hc)
 | [*AM-GUI*](https://github.com/Shikakiben/AM-GUI) | *Anylinux AppImage* | [Shikakiben](https://github.com/Shikakiben)
