@@ -1,7 +1,7 @@
 # Hi everyone, I'm imngkhang 🇻🇳
-So here is my profile, I like to do some small repos and also, can sometime AppImages or Flatpaks.
+So here is my profile, I like to work on some small repos, and sometimes I package AppImages or Flatpaks.
 
-I'm just *a normal geek that writing codes for fun*.
+I'm just *a normal geek that writes codes for fun*.
 
 [About precompiled-binary AppImages](#about-precompiled-binary-appimages)
 
@@ -11,7 +11,7 @@ I'm just *a normal geek that writing codes for fun*.
 
 ## About precompiled-binary AppImages
 I do this because I think it will be useful for me and the community, and for demonstration - testing purposes ONLY. Consider these packages as "experimental" or "testing". These projects are community-maintained and is not affiliated with, supported, or endorsed by their owners.
-And if you are the owner of these apps, you can co-maintaining it with me, or tell me to hand over by opening an issue in the project's repo. And feel free to do that, I would like to have one co-maintained these with me.
+And if you are the owner of these apps, you can co-maintain it with me, or tell me to hand over by opening an issue in the project's repo. And feel free to do that, I would like to have one co-maintained these with me.
 
 ## My projects
 | Projects | Source | Status | Minor repo |
