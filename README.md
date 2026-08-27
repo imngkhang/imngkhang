@@ -7,6 +7,8 @@ I'm just *a normal geek that writing codes for fun*.
 
 [My projects](#my-projects)
 
+[Useful utilities that I'm currently using](#useful-utilities-that-im-currently-using)
+
 ## About precompiled-binary AppImages
 I do this because I think it will be useful for me and the community, and for demonstration - testing purposes ONLY. Consider these packages as "experimental" or "testing". These projects are community-maintained and is not affiliated with, supported, or endorsed by their owners.
 And if you are the owner of these apps, you can co-maintaining it with me, or tell me to hand over by opening an issue in the project's repo. And feel free to do that, I would like to have one co-maintained these with me.
@@ -18,6 +20,8 @@ And if you are the owner of these apps, you can co-maintaining it with me, or te
 | [*Classin (AppImage ver.)*](https://github.com/imngkhang/classin-appimage-wrapper) | *AppImage type 2* | Unofficial | none
 | [*Legacy Launcher*](https://github.com/imngkhang/legacylauncher-appimage) | *Runimage* | Unofficial | none
 
+### *If you find my project I do is useful, consider let me a star "⭐" in the repo you like best*
+
 ## Useful utilities that I'm currently using
 | Utilities | Source | Maintainer
 | -- | -- | -- |
@@ -25,6 +29,6 @@ And if you are the owner of these apps, you can co-maintaining it with me, or te
 | [*AM-GUI*](https://github.com/Shikakiben/AM-GUI) | *Anylinux AppImage* | [Shikakiben](https://github.com/Shikakiben)
 | [*Gear Lever*]([https:](https://github.com/mijorus/gearlever)) | *Flatpak* | [Lorenzo Paderi](https://github.com/mijorus)
 
-##### *If you find my project I do is useful, consider let me a star "⭐" in the repo you like best*
+
 
 
