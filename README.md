@@ -18,7 +18,7 @@ And if you are the owner of these apps, you can co-maintain it with me, or tell 
 ## My main projects
 | Projects | Type | Status | Minor repo |
 | -- | -- | -- | -- |
-| [*Classin (Flatpak ver.)*](https://github.com/flathub/cn.eeo.ClassIn) | *Flatpak* | *Unofficial* | [Minor repo](https://github.com/imngkhang/classin-flatpak-wrapper)
+| [*Classin (Flatpak ver.)*](https://github.com/flathub/cn.eeo.ClassIn) | *Flatpak* | *Unofficial* | [*Minor repo*](https://github.com/imngkhang/classin-flatpak-wrapper)
 | [*Classin (AppImage ver.)*](https://github.com/imngkhang/classin-appimage-wrapper) | *AppImage type 2* | *Unofficial* | *none*
 | [*Legacy Launcher*](https://github.com/imngkhang/legacylauncher-appimage) | *Runimage* | *Unofficial* | *none*
 
@@ -27,7 +27,7 @@ And if you are the owner of these apps, you can co-maintain it with me, or tell 
 ## Projects that I'm maintaining for
 | Projects | Type | Package manager | Original author(s) |
 | -- | -- | -- | -- |
-| [*Zalo for Linux*](https://github.com/doandat943/zalo-for-linux) | *AppImage type 2* | [*AM*](https://github.com/ivan-hc/AM) | [Đặng Đoàn Đạt](https://github.com/doandat943)
+| [*Zalo for Linux*](https://github.com/doandat943/zalo-for-linux) | *AppImage type 2* | [*AM*](https://github.com/ivan-hc/AM) | [*Đặng Đoàn Đạt*](https://github.com/doandat943)
 
 ## Useful utilities that I'm currently using
 | Utilities | Type | Maintainer |
