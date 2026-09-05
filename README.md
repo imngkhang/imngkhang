@@ -27,7 +27,7 @@ And if you are the owner of these apps, you can co-maintain it with me, or tell 
 ## Projects that I'm maintaining for
 | Projects | Type | Package manager | Original author(s) |
 | -- | -- | -- | -- |
-| [*Zalo for Linux*](https://github.com/doandat943/zalo-for-linux) | *AppImage type 2* | [*AM*](https://github.com/ivan-hc/AM) | [*Đặng Đoàn Đạt*](https://github.com/doandat943)
+| [*Zalo for Linux*](https://github.com/doandat943/zalo-for-linux) | *AppImage type 2* | [*AM*](https://github.com/ivan-hc/AM) | [*Đặng Doãn Đạt*](https://github.com/doandat943)
 
 ## Useful utilities that I'm currently using
 | Utilities | Type | Maintainer |
