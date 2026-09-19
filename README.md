@@ -19,7 +19,7 @@ And if you are the owner of these apps, you can co-maintain it with me, or tell 
 | Projects | Type | Status | Minor repo |
 | -- | -- | -- | -- |
 | [*Classin (Flatpak ver.)*](https://github.com/flathub/cn.eeo.ClassIn) | *Flatpak* | *Unofficial* | [*Minor repo*](https://github.com/imngkhang/classin-flatpak-wrapper)
-| [*Classin (AppImage ver.)*](https://github.com/imngkhang/classin-appimage-wrapper) | *Anylinux AppImage* | *Unofficial* | *none*
+| [*Classin (AppImage ver.)*](https://github.com/imngkhang/classin-appimage-wrapper) | *uruntime-based AppImage* | *Unofficial* | *none*
 | [*Legacy Launcher*](https://github.com/imngkhang/legacylauncher-appimage) | *Runimage* | *Unofficial* | *none*
 
 #### *If you find my project I do is useful, consider let me a star "⭐" in the repo you like best*
